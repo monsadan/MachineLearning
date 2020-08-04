@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e61483b-0cfe-4f61-a04c-314fbb5d4053" name="Default Changelist" comment="" />
+    <list default="true" id="8e61483b-0cfe-4f61-a04c-314fbb5d4053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EnsembleTrees.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NaiveBayes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytree.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +36,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596383377016</updated>
-      <workItem from="1596383391837" duration="17943000" />
+      <workItem from="1596383391837" duration="25668000" />
+      <workItem from="1596556242577" duration="8261000" />
     </task>
     <servers />
   </component>
@@ -64,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
