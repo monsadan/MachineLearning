@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e61483b-0cfe-4f61-a04c-314fbb5d4053" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EnsembleTrees.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NaiveBayes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mytree.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KernelSVM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596383377016</updated>
       <workItem from="1596383391837" duration="25668000" />
-      <workItem from="1596556242577" duration="8261000" />
+      <workItem from="1596556242577" duration="13437000" />
     </task>
     <servers />
   </component>
